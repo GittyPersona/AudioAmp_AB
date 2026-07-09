@@ -143,8 +143,5 @@ The distortion analysis evaluates the quality of the amplified signal.
 #  Future Improvements
 
 - PCB implementation
-- Thermal analysis
-- Frequency response analysis
-- Total Harmonic Distortion (THD) measurement
 - Hardware implementation
 - Higher output power design
